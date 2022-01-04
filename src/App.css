@@ -1,0 +1,35 @@
+
+h1{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.cards{
+  border: 2px solid black;
+  text-align: center;
+  width:400px;
+  height:130px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:100px;
+  padding:10px;
+}
+.list{
+  list-style-type: none;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 21px;
+  text-align: center;
+  border: 2px solid black;
+  width:380px;
+  margin-left:auto;
+  margin-right:auto;
+  text-transform: capitalize;
+}
+button{
+  background-color: rgb(110, 110, 224);
+  color:white;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 18px;
+}
+input{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 18px;
+}
